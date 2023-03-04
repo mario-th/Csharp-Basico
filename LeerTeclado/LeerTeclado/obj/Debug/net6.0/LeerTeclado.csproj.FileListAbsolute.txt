@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\bin\Debug\net6.0\LeerTeclado.exe
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\bin\Debug\net6.0\LeerTeclado.deps.json
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\bin\Debug\net6.0\LeerTeclado.runtimeconfig.json
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\bin\Debug\net6.0\LeerTeclado.dll
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\bin\Debug\net6.0\LeerTeclado.pdb
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.AssemblyInfo.cs
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.dll
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\refint\LeerTeclado.dll
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.pdb
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\LeerTeclado.genruntimeconfig.cache
+C:\Users\mario\source\repos\LeerTeclado\LeerTeclado\obj\Debug\net6.0\ref\LeerTeclado.dll
